@@ -1,0 +1,26 @@
+{
+  "user": [
+    {
+      "name": "John",
+      "password": "qwerty",
+      "email": "john@example.com"
+    },
+    {
+      "name": "John",
+      "password": "qwerty",
+      "email": "john@example.com"
+    },
+    {
+      "name": "John",
+      "password": "qwerty",
+      "email": "john@example.com"
+    },
+    {
+      "name": "sachin",
+      "email": "kharvi@gmail.com",
+      "password": "qwerty",
+      "cpassword": "qwerty",
+      "id": "1c87b824-8350-44ec-a07e-39ad89fd2317"
+    }
+  ]
+}
